@@ -1,0 +1,4 @@
+C:\Users\EL BOLOR\Documents\Projetos de C#\FunçõesMate\FunçõesMate\obj\Debug\net7.0\FunçõesMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL BOLOR\Documents\Projetos de C#\FunçõesMate\FunçõesMate\obj\Debug\net7.0\FunçõesMate.AssemblyInfoInputs.cache
+C:\Users\EL BOLOR\Documents\Projetos de C#\FunçõesMate\FunçõesMate\obj\Debug\net7.0\FunçõesMate.AssemblyInfo.cs
+C:\Users\EL BOLOR\Documents\Projetos de C#\FunçõesMate\FunçõesMate\obj\Debug\net7.0\FunçõesMate.csproj.CoreCompileInputs.cache
